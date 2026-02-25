@@ -16,7 +16,7 @@ Authentication: JWT / Session-based Authentication
 
 Deployment: Vercel / Netlify (Frontend) Render / Railway (Backend)
 
-Installation & Setup Clone the repository git clone https://github.com/ShaikKouser22/Resolve-now---Your-Platform-for-Online-Complaints.git cd Resolve-now---Your-Platform-for-Online-Complaints
+Installation & Setup Clone the repository git clone https://github.com/ShaikKouser22/Resolve-Now-Your-Platform-for-Online-Complaints cd Resolve-Now-Your-Platform-for-Online-Complaints
 
 Install Backend dependencies cd backend npm install npm start
 
@@ -40,6 +40,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 👨‍💻 Author:Shaik Kouser
 
-GitHub:https://github.com/ShaikKouser22/Resolve-now---Your-Platform-for-Online-Complaints
+GitHub:https://github.com/ShaikKouser22/Resolve-Now-Your-Platform-for-Online-Complaints
 
 Demo - https://drive.google.com/file/d/1p5c-PC-0FMArPICd3jW-aX50T-9C6uJ9/view?usp=sharing Drive link - https://drive.google.com/drive/folders/1PxUbVQNGqYnaERVIwhXVaC0yqGGv_H-m?usp=drive_link
